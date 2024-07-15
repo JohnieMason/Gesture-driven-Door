@@ -47,4 +47,8 @@ except KeyboardInterrupt:
 
 finally:
     # Cleanup GPIO settings
+<<<<<<< HEAD
     GPIO.cleanup()
+=======
+    GPIO.cleanup()
+>>>>>>> adf8ccfdf21d993c2bfb61039c50db42ad393194

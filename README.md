@@ -1,6 +1,4 @@
-# GPIO-Control.txt
-#How to Control GPIO pins of RPi
-import RPi.GPIO as GPIO                                GPIO
+import RPi.GPIO as GPIO
 import time
 #setting BCM Numbering
 GPIO.setmode(GPIO.BCM)
